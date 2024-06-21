@@ -3,6 +3,7 @@
 ## Smart Contract: PojectExample
 - This smart contract performs the require(), assert(), and revert() statements to do various checks and calculations. It takes a value as 
  input, performs some calculations, and returns the result.
+- Made This is in the image of a voting mechanism. Say a BlockChain Voting Machine
 
 ## Require()
 - requireStatement(): This function takes a number as a parameter and uses the require() statement to check if the number is greater than zero. If the condition evaluates to false, it reverts the transaction with the given error message.
